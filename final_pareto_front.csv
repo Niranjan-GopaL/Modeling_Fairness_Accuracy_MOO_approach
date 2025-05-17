@@ -1,0 +1,28 @@
+accuracy,dpd,group,index,color,params
+0.8365427675772503,0.1163380070310119,botorch_rf,18,green,{'n_estimators': 39 'max_depth': 29 'min_samples_split': 5.505961537361145}
+0.8334079713390058,0.1147644429082739,botorch_rf,17,green,{'n_estimators': 86 'max_depth': 25 'min_samples_split': 7.866268992424011}
+0.8325123190879822,0.1076674833893776,botorch_rf,16,green,{'n_estimators': 17 'max_depth': 22 'min_samples_split': 8.001313924789429}
+0.825347066726377,0.1047773133893933,botorch_rf,15,green,{'n_estimators': 22 'max_depth': 19 'min_samples_split': 18.678343653678894}
+0.8177339901477833,0.1012288353351554,optuna_rf,6,orange,{'n_estimators': 138 'max_depth': 7 'min_samples_split': 4}
+0.8172861621137483,0.0739483833312988,botorch_nn,18,red,{'layers': 1 'units': 32 'learning_rate': 0.1 'batch_size': 16 'optimizer': 'SGD' 'activation': 'Tanh' 'dropout': 2}
+0.8011643528884909,0.0716687965872759,botorch_rf,6,green,{'n_estimators': 207 'max_depth': 5 'min_samples_split': 8.665801167488098}
+0.7913121361397224,0.0608948850070264,optuna_rf,0,orange,{'n_estimators': 82 'max_depth': 4 'min_samples_split': 3}
+0.7877295118674429,0.05670401986511,botorch_rf,2,green,{'n_estimators': 27 'max_depth': 4 'min_samples_split': 9.547285556793213}
+0.7751903269144649,0.0508436052102456,botorch_rf,1,green,{'n_estimators': 22 'max_depth': 3 'min_samples_split': 5.235397458076477}
+0.6220331392745185,0.0252408477842003,botorch_rf,0,green,{'n_estimators': 21 'max_depth': 1 'min_samples_split': 14.032552719116211}
+0.5463502015226153,0.0155582726001739,botorch_nn,15,red,{'layers': 3 'units': 32 'learning_rate': 5.397437258420407e-05 'batch_size': 16 'optimizer': 'SGD' 'activation': 'ReLU' 'dropout': 0}
+0.5364979847738468,0.0142688928171992,botorch_nn,14,red,{'layers': 3 'units': 32 'learning_rate': 0.00014661252374876767 'batch_size': 16 'optimizer': 'SGD' 'activation': 'ReLU' 'dropout': 0}
+0.5311240483654277,0.0037998659536242,botorch_nn,13,red,{'layers': 3 'units': 32 'learning_rate': 0.00013014560366329914 'batch_size': 16 'optimizer': 'SGD' 'activation': 'ReLU' 'dropout': 0}
+0.5270935960591133,0.001803770661354,botorch_nn,12,red,{'layers': 3 'units': 61 'learning_rate': 0.0003651536514240078 'batch_size': 155 'optimizer': 'SGD' 'activation': 'LeakyReLU' 'dropout': 1}
+0.5230631437527989,0.0014450866729021,botorch_nn,11,red,{'layers': 3 'units': 32 'learning_rate': 4.921760713545689e-05 'batch_size': 16 'optimizer': 'SGD' 'activation': 'ReLU' 'dropout': 0}
+0.522615315718764,0.0007867820677347,botorch_nn,10,red,{'layers': 4 'units': 32 'learning_rate': 0.0003213920484489167 'batch_size': 16 'optimizer': 'SGD' 'activation': 'LeakyReLU' 'dropout': 1}
+0.522615315718764,0.0007867820677347,botorch_nn,8,red,{'layers': 4 'units': 32 'learning_rate': 0.0005385497474460577 'batch_size': 16 'optimizer': 'SGD' 'activation': 'ReLU' 'dropout': 0}
+0.522615315718764,0.0007867820677347,botorch_nn,9,red,{'layers': 4 'units': 32 'learning_rate': 0.0003051284186367862 'batch_size': 16 'optimizer': 'SGD' 'activation': 'ReLU' 'dropout': 0}
+0.5221674876847291,0.0,botorch_nn,0,red,{'layers': 3 'units': 72 'learning_rate': 0.09575703180698278 'batch_size': 156 'optimizer': 'Adam' 'activation': 'LeakyReLU' 'dropout': 1}
+0.5221674876847291,0.0,botorch_nn,7,red,{'layers': 3 'units': 32 'learning_rate': 8.777040908429805e-05 'batch_size': 16 'optimizer': 'SGD' 'activation': 'ReLU' 'dropout': 0}
+0.5221674876847291,0.0,botorch_nn,5,red,{'layers': 3 'units': 32 'learning_rate': 0.00010770610593330191 'batch_size': 16 'optimizer': 'SGD' 'activation': 'ReLU' 'dropout': 0}
+0.5221674876847291,0.0,botorch_nn,6,red,{'layers': 4 'units': 32 'learning_rate': 0.0003674564975397127 'batch_size': 16 'optimizer': 'SGD' 'activation': 'ReLU' 'dropout': 0}
+0.5221674876847291,0.0,botorch_nn,2,red,{'layers': 4 'units': 32 'learning_rate': 0.00025475806243148517 'batch_size': 16 'optimizer': 'SGD' 'activation': 'ReLU' 'dropout': 0}
+0.5221674876847291,0.0,botorch_nn,3,red,{'layers': 4 'units': 32 'learning_rate': 0.0005642859851861557 'batch_size': 16 'optimizer': 'SGD' 'activation': 'LeakyReLU' 'dropout': 1}
+0.5221674876847291,0.0,botorch_nn,1,red,{'layers': 4 'units': 32 'learning_rate': 3.0847611469672955e-05 'batch_size': 16 'optimizer': 'SGD' 'activation': 'ReLU' 'dropout': 0}
+0.5221674876847291,0.0,botorch_nn,4,red,{'layers': 4 'units': 128 'learning_rate': 0.1 'batch_size': 256 'optimizer': 'RMSprop' 'activation': 'ReLU' 'dropout': 0}
