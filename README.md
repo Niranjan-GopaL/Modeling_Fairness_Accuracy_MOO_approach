@@ -1,7 +1,3 @@
-Here is the full updated README with your requested changes:
-
----
-
 # Modeling Fairness and Accuracy: A Multi-Objective Optimization Approach
 
 This repository contains the final project submitted for the **AIM 846: Multiobjective Machine Learning** course.
